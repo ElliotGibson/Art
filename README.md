@@ -10,25 +10,26 @@ This is a repository containing a portfolio of recent craft glass works created 
 - Please email these details with a 4 week notice before publication to elliot@elliotgibson.com
 
 # Low res images
-
-![Copyright: Elliot Gibson 2021](/low.webp)
-![Copyright: Elliot Gibson 2021](/low2.webp)
-![Copyright: Elliot Gibson 2021](/low3.webp)
-![Copyright: Elliot Gibson 2021](/low4.webp)
-![Copyright: Elliot Gibson 2021](/low5.webp)
-![Copyright: Elliot Gibson 2021](/low6.webp)
-![Copyright: Elliot Gibson 2021](/low7.webp)
-![Copyright: Elliot Gibson 2021](/low8.webp)
-![Copyright: Elliot Gibson 2021](/low9.webp)
-![Copyright: Elliot Gibson 2021](/low10.webp)
-![Copyright: Elliot Gibson 2021](/low11.webp)
-![Copyright: Elliot Gibson 2021](/low12.webp)
-![Copyright: Elliot Gibson 2021](/low13.webp)
-![Copyright: Elliot Gibson 2021](/low14.webp)
-![Copyright: Elliot Gibson 2021](/low15.webp)
-![Copyright: Elliot Gibson 2021](/low16.webp)
-![Copyright: Elliot Gibson 2021](/low17.webp)
-![Copyright: Elliot Gibson 2021](/low18.webp)
-![Copyright: Elliot Gibson 2021](/low19.webp)
-![Copyright: Elliot Gibson 2021](/low20.webp)
-![Copyright: Elliot Gibson 2021](/low21.webp)
+<p align="center">
+<img src="/low.webp" />
+<img src="/low2.webp" />
+<img src="/low3.webp" />
+<img src="/low4.webp" />
+<img src="/low5.webp" />
+<img src="/low6.webp" />
+<img src="/low7.webp" />
+<img src="/low8.webp" />
+<img src="/low9.webp" />
+<img src="/low10.webp" />
+<img src="/low11.webp" />
+<img src="/low12.webp" />
+<img src="/low13.webp" />
+<img src="/low14.webp" />
+<img src="/low15.webp" />
+<img src="/low16.webp" />
+<img src="/low17.webp" />
+<img src="/low18.webp" />
+<img src="/low19.webp" />
+<img src="/low20.webp" />
+<img src="/low21.webp" />
+</p>
